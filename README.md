@@ -4,7 +4,7 @@
 
 | Name | Phone | Email | ID |
 |---|---|---|---|
-| Farouz Hassan Mahmoud Mohamed | 01558162250 | fairouzhassan2000@gmail.com | 23011125 |
+| Fayrouz Hassan Mahmoud Mohamed | 01558162250 | fairouzhassan2000@gmail.com | 23011125 |
 | Kirollos Nader Naguib Youssef | 01206997713 | kirellos.farag.20@gmail.com | 23011425 |
 | Fady Anter Abdel-Shahid Nan | 01202804250 | fadyanter2005@gmail.com | 23011404 |
 | Fares Hassan Abdelsalam Ragab | 01289961996 | areschamp2003@gmail.com | 23011408 |
