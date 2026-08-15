@@ -22,7 +22,7 @@ The notebook covers the full data science pipeline:
 - **ML Pipeline**: data splitting, encoding (including frequency encoding for high-cardinality `customer_city`), feature scaling, handling class imbalance (Oversampling, Undersampling, SMOTE), hyperparameter tuning, and evaluating an **XGBoost Classifier** (Confusion Matrix, ROC-AUC, Feature Importance).
 - **Business Insights & Recommendations**: translating model findings (e.g., seasonal concentration of delays in Autumn/Summer, high-delay months like March) into actionable operational recommendations, along with study limitations.
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone/download the project and open `Capstone_Model_2__Analysis.ipynb` in Jupyter Notebook / JupyterLab / VS Code.
 2. Place the `.env` file (containing the `NEON_DATABASE_URL` database connection string) in the same folder as the notebook — it will be loaded automatically.
